@@ -1,6 +1,5 @@
 # MQTT-Shutdown
 通过MQTT消息来关闭电脑
-# 语音关机
 
 该程序目前仅支持Windows系统。
 
